@@ -1,5 +1,3 @@
-![MasterHead](https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/218064986/original/a9bc04fa70404b2762e5f64a64e88c3c110eb534/html-bootsrap-css-javascript-website-psd-xd-responsive.png)
-
 <h1 align="center">Hi 👋, I'm Akif Soltanov</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
@@ -13,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/Akif Soltanov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akifsoltanov" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/Akif Soltanov](https://www.linkedin.com/in/akif-soltanov-335013263/)" target="blank"><img align="center" src="www.linkedin.com/in/akif-soltanov-335013263" alt="akifsoltanov" height="30" width="40" /></a>
 <a href="https://fb.com/Akif Soltanov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akif soltanov" height="30" width="40" /></a>
 <a href="https://instagram.com/akifsoltanov_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akifsoltanov_" height="30" width="40" /></a>
 </p>
