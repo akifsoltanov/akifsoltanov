@@ -1,3 +1,8 @@
+
+[![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQHLZNtAhZAVhg/profile-displaybackgroundimage-shrink_350_1400/B4DaEtGqK6IsAU-/0/1791758083011?e=1793232000&v=beta&t=d_OuQ_3vce5FUEUbfLWM-6PCAKznUvKzNCxrINMj5Fk)
+
+
+
 <h1 align="center">Hi 👋, I'm Akif Soltanov</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
